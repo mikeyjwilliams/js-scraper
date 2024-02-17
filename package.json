@@ -1,0 +1,12 @@
+{
+  "name": "js-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest tests/index.spec.js"
+  },
+  "keywords": [],
+  "author": "Michael Williams",
+  "license": "MIT"
+}
